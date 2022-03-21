@@ -42,9 +42,9 @@ With these points in mind, in this homework students applied the core skills rec
 
 The URL can be found here>> https://mattdryan.github.io/Week-2-Homework/
 
-Following the link you will be presented with "Horiseon Marketing" page similar to the below screenshot.
+Following the link you will be presented with "Portfolio Bio" page similar to the below screenshot.
 
-<img src="assets/Images/Screenshot.jpg">
+<img src="">
 
 **Project Goal**
 
