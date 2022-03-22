@@ -199,4 +199,13 @@ footer p{
     display: inline-flex;
     justify-content: space-between;
 }
- 
+ /* Cards are stacked on top of each other at 768px or smaller */
+@media screen and (max-width: 768px) {
+    .application {
+      width: 100%;
+    }
+    /* Change the header color */
+    header {
+      background: #3695f5;
+    }
+  }
