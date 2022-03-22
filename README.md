@@ -80,5 +80,3 @@ Another point to note was the use of pseudo-elements, in this project the Navbar
 **Need help with the project?**
 
 If you have any questions or need assistance please message me via LinkedIn on linkedin.com/in/matt-ryan-a4a05154
-
-Who maintains and contributes to the project
