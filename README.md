@@ -38,7 +38,7 @@ With these points in mind, in this homework students applied the core skills rec
 
 **Note:** The early commits most students don't have enough web applications to showcase at this point, therefore placeholder images and names have been used. Students will change the application links to real applications as they are created later in the course.
 
-**Competed site**
+**Completed site**
 
 The URL can be found here>> https://mattdryan.github.io/Week-2-Homework/
 
