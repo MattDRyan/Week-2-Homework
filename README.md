@@ -4,7 +4,7 @@
 
 A Coding Boot Camp is offered through The University of Adelaide in partnership with Trilogy Education Services (Australia) Pty Ltd., a 2U, Inc. brand. This coding Bootcamp is a 24-week course and is designed for students to become web developers. The course features HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, React.js, Node.js, Database Theory, MongoDB, MySQL, Command Line, Git, and more.
 
-During the first-week students are presented with the following concepts.
+During the second-week students are presented with the following concepts.
 
 - Media Query screen
 - Flexbox layout
